@@ -1,0 +1,43 @@
+bg-green{
+    background-color: green;
+}
+.ht-500{
+    height: 500px;
+}
+.bdr-16{
+    border-radius: 16px;
+}
+.bdr-solid{
+    border-style: solid;
+}
+.bdr-black{
+    border-color: black;
+}
+.mn-16{
+    margin: 16px;
+}
+.text-center{
+    text-align: center;
+}
+.fs-50{
+    font-size: 50px;
+}
+.bdr-5{
+    border-width: 5px;
+}
+.bdr-dotted{
+    border-style: dotted;
+}
+.p-10{
+    padding: 10px;
+}
+.px-30{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.inline-block{
+    display: inline-block;
+}
